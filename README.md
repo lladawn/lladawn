@@ -21,7 +21,7 @@
 - **Contributor at [ETH Barcelona](https://x.com/eth_barcelona)** (2022-2023)
   - Built **NFT-powered event engagement tools**, including NFT Tickets, Scavenger Hunt, Speaker Cards, and Mint Moments.
  
-- **ETH Global Finalist** at NFT Hack 2022
+- **ETH Global Finalist at [NFT Hack 2022](https://ethglobal.com/showcase/zeusdao-zwmpm)**
   - Built Web3 Open Protocol for Community Management (If Discord took the Web3 pill).
 
 - 🏆 **Winner at multiple Web3 hackathons**
