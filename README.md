@@ -2,12 +2,16 @@
 
 # Hi, I'm Disha Agarwalla 👋
 
+
 🔹 Experienced in **blockchain development**, **smart contracts**, and **decentralized systems**, mostly in EVM and Solana ecosystem.  
+
 🔹 Skilled in **full-stack development** (React, Next.js, Node.js, MongoDB, MySQL, AWS, Firebase).  
+
 🔹 Proficient in **Web3 infrastructure & tooling** (TheGraph, IPFS, ChainLink, OpenZeppelin, Wagmi, Pimlico, Hardhat).
+
 🔹 Worked on **Web3 security, gas optimizations, account abstraction, cross-chain execution and NFT implementations**.
 
----
+
 
 ## 👩‍💻 Past Experiences
 - **Founding Engineer at [Tria](https://x.com/Tria)** (May '23 - Sept '24)
@@ -22,7 +26,7 @@
 
 - 🏆 **Winner at multiple Web3 hackathons**
 
----
+
 
 ## 📫 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/disha-agarwalla-4b8673190)  
