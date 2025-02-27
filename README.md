@@ -14,7 +14,7 @@
 
 
 ## 👩‍💻 Past Experiences
-- **Founding Engineer at [Tria](https://x.com/Tria)** (May '23 - Sept '24)
+- **Founding Engineer at [Tria](https://x.com/useTria)** (May '23 - Sept '24)
   - Architected core infrastructure for multi-chain Web3 onboarding.  
   - Implemented gasless transactions, account abstraction, and cross-chain execution.
 
