@@ -1,34 +1,29 @@
 
+# Hi, I'm Disha 👋
 
-# Hi, I'm Disha Agarwalla 👋
+Full-stack engineer. Prev founding engineer at Tria (Web3 infra, multi-chain onboarding, account abstraction). These days I'm building AI experiments, making games, and writing at breathe.living.
 
+The thread through my work: learn the system, find the leverage, ship the thing, stay close to the humans using it.
 
-🔹 Experienced in **blockchain development**, **smart contracts**, and **decentralized systems**, mostly in EVM and Solana ecosystem.  
+## What I'm doing now
 
-🔹 Skilled in **full-stack development** (React, Next.js, Node.js, MongoDB, MySQL, AWS, Firebase).  
+- 🤖 **AI experiments** — an ongoing series of small projects (RAG, agents, MCP, digests) to build hands-on intuition for how these systems work → [lladawn/ai-experiments](https://github.com/lladawn/ai-experiments)
+- 🎮 **Games** — shipped two Godot games at jams in 2025, handling gameplay, art, animation, and player feedback → [lladawn.itch.io](https://lladawn.itch.io)
+- ✍️ **breathe.living** — writing about attention, modern life, and meaning, shared early with real users → [breathe.living](https://breathe.living)
 
-🔹 Proficient in **Web3 infrastructure & tooling** (TheGraph, IPFS, ChainLink, OpenZeppelin, Wagmi, Pimlico, Hardhat).
+## Background
 
-🔹 Worked on **Web3 security, gas optimizations, account abstraction, cross-chain execution and NFT implementations**.
+- Founding Engineer at [Tria](https://x.com/useTria) — multi-chain onboarding infra, gasless transactions, account abstraction, SDKs, Solana + EVM
+- Core team at [ETH Barcelona](https://x.com/eth_barcelona) — NFT ticketing, on-chain scavenger hunt, quadratic funding
+- 6+ hackathon wins and bounties (ETHGlobal, Devfolio, Unstoppable Domains)
+- IIT BHU Computer Science, 2023
 
+## Stack
 
+**Comfortable:** TypeScript · JavaScript · React · Node.js · Solidity · EVM · AWS · MongoDB 
+**Working in:** Python · LLMs · RAG · MCP · Agents  
+**Games:** Godot · GDScript · Procreate
 
-## 👩‍💻 Past Experiences
-- **Founding Engineer at [Tria](https://x.com/useTria)** (May '23 - Sept '24)
-  - Architected core infrastructure for multi-chain Web3 onboarding.  
-  - Implemented gasless transactions, account abstraction, and cross-chain execution.
+## Links
 
-- **Contributor at [ETH Barcelona](https://x.com/eth_barcelona)** (2022-2023)
-  - Built **NFT-powered event engagement tools**, including NFT Tickets, Scavenger Hunt, Speaker Cards, and Mint Moments.
- 
-- **ETH Global Finalist at [NFT Hack 2022](https://ethglobal.com/showcase/zeusdao-zwmpm)**
-  - Built Web3 Open Protocol for Community Management (If Discord took the Web3 pill).
-
-- 🏆 **Winner at multiple Web3 hackathons**
-
-
-
-## 📫 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/disha-agarwalla-4b8673190)  
-- [Twitter](https://x.com/lla_dawn)  
-- [Email](mailto:dishaagarwalla2001@gmail.com)
+[Portfolio](https://lladawn.github.io) · [X](https://x.com/lla_dawn) · [LinkedIn](https://linkedin.com/in/disha-agarwalla-4b8673190) · [Email](mailto:dishaagarwalla2001@gmail.com)
