@@ -20,9 +20,9 @@ The thread through my work: learn the system, find the leverage, ship the thing,
 
 ## Stack
 
-**Comfortable:** TypeScript · JavaScript · React · Node.js · Solidity · EVM · AWS · MongoDB 
-**Working in:** Python · LLMs · RAG · MCP · Agents  
-**Games:** Godot · GDScript · Procreate
+**Depth:** TypeScript · JavaScript · React · Node.js · Solidity · EVM · AWS · MongoDB  
+**Building with:** Python · LLMs · RAG · MCP · Agents   
+**Games prev:** Godot · GDScript · Procreate
 
 ## Links
 
