@@ -8,6 +8,7 @@ The thread through my work: learn the system, find the leverage, ship the thing,
 ## What I'm doing now
 
 - 🤖 **AI experiments** — an ongoing series of small projects (RAG, agents, MCP, digests) to build hands-on intuition for how these systems work → [lladawn/ai-experiments](https://github.com/lladawn/ai-experiments)
+- 🤫 **Mumbl** — most people spend the biggest part of their day at work just getting through it. anonymous team rooms where engineers say the real thing, and every monday AI turns the week into a heartbeat the whole team gets back → [mumbl.wtf](https://mumbl.wtf)
 - 🎮 **Games** — shipped two Godot games at jams in 2025, handling gameplay, art, animation, and player feedback → [lladawn.itch.io](https://lladawn.itch.io)
 - ✍️ **breathe.living** — writing about attention, modern life, and meaning, shared early with real users → [breathe.living](https://breathe.living)
 
@@ -15,7 +16,7 @@ The thread through my work: learn the system, find the leverage, ship the thing,
 
 - Founding Engineer at [Tria](https://x.com/useTria) — multi-chain onboarding infra, gasless transactions, account abstraction, SDKs, Solana + EVM
 - Core team at [ETH Barcelona](https://x.com/eth_barcelona) — NFT ticketing, on-chain scavenger hunt, quadratic funding
-- 6+ hackathon wins and bounties (ETHGlobal, Devfolio, Unstoppable Domains)
+- 6+ hackathon wins and bounties (ETHGlobal, Devfolio, Gitcoin)
 - IIT BHU Computer Science, 2023
 
 ## Stack
